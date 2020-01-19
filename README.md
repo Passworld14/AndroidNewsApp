@@ -1,7 +1,7 @@
 # AndroidNewsApp
 Android News App is Application News for showing latest news in Indonesia, I use free api from NewsApi.org
-
 Home Android News App
+
 ![Home](https://user-images.githubusercontent.com/33416633/72682709-a7d5c700-3b02-11ea-9245-42b8c0372378.JPG)
 
 
