@@ -1,7 +1,7 @@
 # AndroidNewsApp
 Android News App is Application News for showing latest news in Indonesia, I use free api from NewsApi.org.
 
-#How to downlod or clone this app?
+## How to downlod or clone this app?
 
 1. Open your cmd
 2. Write git clone (url repository)
