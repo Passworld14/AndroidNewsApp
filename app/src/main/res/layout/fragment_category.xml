@@ -13,16 +13,16 @@
 
         <TextView
             android:id="@+id/business"
-            android:text="business"
-            android:gravity="center_horizontal"
-            android:textSize="24dp"
-            android:textColor="#ffffff"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="商业"
+            android:textColor="#ffffff"
+            android:textSize="24dp" />
 
         <TextView
             android:id="@+id/entertainment"
-            android:text="entertainment"
+            android:text="环境"
             android:gravity="center_horizontal"
             android:textSize="24dp"
             android:textColor="#ffffff"
@@ -31,7 +31,7 @@
 
         <TextView
             android:id="@+id/health"
-            android:text="health"
+            android:text="健康"
             android:gravity="center_horizontal"
             android:textSize="24dp"
             android:textColor="#ffffff"
@@ -40,7 +40,7 @@
 
         <TextView
             android:id="@+id/science"
-            android:text="science"
+            android:text="科学"
             android:gravity="center_horizontal"
             android:textSize="24dp"
             android:textColor="#ffffff"
@@ -49,7 +49,7 @@
 
         <TextView
             android:id="@+id/sports"
-            android:text="sports"
+            android:text="运动"
             android:gravity="center_horizontal"
             android:textSize="24dp"
             android:textColor="#ffffff"

@@ -54,7 +54,7 @@ public class FragmentHome extends Fragment {
 
         getJsonAll = RetrofitConfigToJson.getResponses();
 
-        getJsonAll.getNewsList("id", "94dbfe81124e4f6eaa34583005e20cb0").enqueue(new Callback<NewsList>() {
+        getJsonAll.getNewsList("cn", "cb012f81982d4ebaa012f4f434260b4b").enqueue(new Callback<NewsList>() {
             @Override
             public void onResponse(Call<NewsList> call, Response<NewsList> response) {
                 Log.d("berhasil", response + "");

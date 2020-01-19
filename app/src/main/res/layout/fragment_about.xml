@@ -12,7 +12,7 @@
         android:layout_height="match_parent">
 
         <TextView
-            android:text="Name: Supriyanto"
+            android:text="Name: 林镇"
             android:layout_centerInParent="true"
             android:gravity="center_horizontal"
             android:textSize="24dp"
@@ -21,7 +21,7 @@
             android:layout_height="wrap_content" />
 
         <TextView
-            android:text="Alamat: Tidak di ketahui"
+            android:text="专业: 计算机科学与技术"
             android:layout_centerInParent="true"
             android:gravity="center_horizontal"
             android:textSize="24dp"
@@ -30,7 +30,7 @@
             android:layout_height="wrap_content" />
 
         <TextView
-            android:text="Status: Mahasiswa"
+            android:text="课程: Android开发"
             android:layout_centerInParent="true"
             android:gravity="center_horizontal"
             android:textSize="24dp"
@@ -39,7 +39,7 @@
             android:layout_height="wrap_content" />
 
         <TextView
-            android:text="Pekerjaan: Arsitektur"
+            android:text="用途：课程设计"
             android:layout_centerInParent="true"
             android:gravity="center_horizontal"
             android:textSize="24dp"

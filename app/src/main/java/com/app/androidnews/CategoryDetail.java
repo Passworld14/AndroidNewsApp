@@ -81,10 +81,10 @@ public class CategoryDetail extends AppCompatActivity {
 
     private void tampilkanCategory(String category){
 
-        getJsonAll.getNewsListCategory("id", category, "94dbfe81124e4f6eaa34583005e20cb0").enqueue(new Callback<NewsList>() {
+        getJsonAll.getNewsListCategory("cn", category, "cb012f81982d4ebaa012f4f434260b4b").enqueue(new Callback<NewsList>() {
             @Override
             public void onResponse(Call<NewsList> call, Response<NewsList> response) {
-                Log.d("berhasil", response + "");
+                Log.d("good", response + "");
 
                 spinKitView.setVisibility(View.VISIBLE);
 
